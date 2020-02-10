@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581295643178.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "85182862",
+    "lastKnownWriteTime" : 1581295906,
+    "last_content_update" : 1581295906360,
+    "path" : "~/Desktop/Robert/keyihuang.github.io/assignment2.Rmd",
+    "project_path" : "assignment2.Rmd",
+    "properties" : {
+        "cursorPosition" : "21,66",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
