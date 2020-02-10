@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581298700617.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2266227309",
+    "id" : "D5BC1F84",
+    "lastKnownWriteTime" : 1581298741,
+    "last_content_update" : 1581298741826,
+    "path" : "~/Desktop/Robert/keyihuang.github.io/assignment3/server.R",
+    "project_path" : "assignment3/server.R",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
